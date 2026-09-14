@@ -1,2 +1,3 @@
 # Metrisect
-Rust based code line metric tool
+
+Golang based code line metric tool
