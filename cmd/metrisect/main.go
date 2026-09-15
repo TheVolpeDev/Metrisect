@@ -1,4 +1,4 @@
-package metrisect
+package main
 
 import "fmt"
 
